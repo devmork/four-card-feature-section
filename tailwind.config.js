@@ -2,6 +2,9 @@
 tailwind.Config = {
   theme: {
     extend: {
+      fontFamily: {
+        title: ['Poppins', 'sans-serif'],
+      },
     },
   },
   plugins: [],
